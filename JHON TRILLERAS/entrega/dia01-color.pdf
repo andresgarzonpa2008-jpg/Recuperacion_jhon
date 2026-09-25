@@ -1,0 +1,39 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 726 >>
+stream
+BT /F1 16 Tf 40 800 Td (Dia 01 - Teoria del color) Tj ET
+BT /F1 9 Tf 40 774 Td (JT.TechLab - Jhon Trilleras - SENA ADSI - 24/09/2026 17:43) Tj ET
+BT /F1 9 Tf 40 754 Td (Circulo cromatico 12 matices dibujado en bitacora \(rojo-naranja-amarillo-verde-azul-violeta\).) Tj ET
+BT /F1 9 Tf 40 741 Td (Esquema elegido: complementario dividido \(verde #39A900 + acento naranja #F08A00\).) Tj ET
+BT /F1 9 Tf 40 728 Td (Regla 60-30-10: 60% neutros #F7F8F6, 30% marca #1F5E14, 10% accion/acento.) Tj ET
+BT /F1 9 Tf 40 715 Td (Escala hsl\(100,...\): 900/12%, 700/22%, 500/33% base, 300/62%, 100/90%.) Tj ET
+BT /F1 9 Tf 40 702 Td (Apps analizadas: banco \(analogo azul\), ERP \(monocromatico gris-azul\), tienda \(complementario\).) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001018 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1088
+%%EOF

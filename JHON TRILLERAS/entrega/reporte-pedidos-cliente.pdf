@@ -1,0 +1,46 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1247 >>
+stream
+BT /F1 16 Tf 40 800 Td (Reporte de pedidos por cliente) Tj ET
+BT /F1 9 Tf 40 774 Td (JT.TechLab - Jhon Trilleras - SENA ADSI - 24/09/2026 17:43) Tj ET
+BT /F1 9 Tf 40 754 Td (Reporte de pedidos por cliente \(vista v_clientes_top\)) Tj ET
+BT /F1 9 Tf 40 741 Td (------------------------------------------------------------------------------------------) Tj ET
+BT /F1 9 Tf 40 728 Td (Sofía Díaz           1011223344     1 pedidos  $ 1.450.000) Tj ET
+BT /F1 9 Tf 40 715 Td (Ana Torres             1033445566     2 pedidos  $ 1.125.000) Tj ET
+BT /F1 9 Tf 40 702 Td (Carlos Ruiz            80123456       2 pedidos  $ 1.020.000) Tj ET
+BT /F1 9 Tf 40 689 Td (Tienda El Chip         900123111-1    2 pedidos  $ 900.000) Tj ET
+BT /F1 9 Tf 40 676 Td (Pedro León            79112233       2 pedidos  $ 630.000) Tj ET
+BT /F1 9 Tf 40 663 Td (Empresa Andina         900555222-3    1 pedidos  $ 525.000) Tj ET
+BT /F1 9 Tf 40 650 Td (Café Internet Central 900777888-9    1 pedidos  $ 360.000) Tj ET
+BT /F1 9 Tf 40 637 Td (Diego Mora             1022334455     1 pedidos  $ 320.000) Tj ET
+BT /F1 9 Tf 40 624 Td (Laura Gómez           1020123451     2 pedidos  $ 250.000) Tj ET
+BT /F1 9 Tf 40 611 Td (Lucía Peña           1044556677     1 pedidos  $ 205.000) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001540 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1610
+%%EOF

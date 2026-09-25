@@ -1,0 +1,49 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2192 >>
+stream
+BT /F1 16 Tf 40 800 Td (Bitacora 15 dias - Jhon Trilleras) Tj ET
+BT /F1 9 Tf 40 774 Td (JT.TechLab - Jhon Trilleras - SENA ADSI - 24/09/2026 17:43) Tj ET
+BT /F1 9 Tf 40 754 Td (## D??a 1 ??? Color: c??rculo 12 matices, 60-30-10, escala hsl\(\). Error: confundir gusto con armon??a. Soluci?) Tj ET
+BT /F1 9 Tf 40 741 Td (## Día 2 - Marca JT.TechLab, logo SVG, tokens.css por función, contrastes WebAIM >=4.5:1. Error: verde pu) Tj ET
+BT /F1 9 Tf 40 728 Td (## Día 3 - HTML semántico login/dashboard/productos, validación W3C 0 errores. Error: divs sin label. Sol) Tj ET
+BT /F1 9 Tf 40 715 Td (## Día 4 - estilos.css con variables, foco visible, sin !important. Error: especificidad #menu a gana a .en) Tj ET
+BT /F1 9 Tf 40 702 Td (## Día 5 - Grid areas barra/menu/contenido/pie + Flex interior + sticky. Error: desborde. Solución: 1fr + ) Tj ET
+BT /F1 9 Tf 40 689 Td (## Día 6 - Mobile first, menú colapsable .abierto, componentes.html 5 estados. Error: scroll horizontal 36) Tj ET
+BT /F1 9 Tf 40 676 Td (## Día 7 - datos-prueba.js 15 productos, filter/map/reduce, Intl COP. map devuelve arreglo, forEach no.) Tj ET
+BT /F1 9 Tf 40 663 Td (## Día 8 - Delegación tbody, buscador vivo, menú Enter, validación junto al campo \(no alert\). Sin onclic) Tj ET
+BT /F1 9 Tf 40 650 Td (## Día 9 - XAMPP PHP 8.2, estructura.sql + datos.sql, Conexion PDO, inyección ' OR '1'='1 neutralizada por) Tj ET
+BT /F1 9 Tf 40 637 Td (## Día 10 - password_hash/verify, CSRF, mensajes genéricos, bloqueo 5 intentos, XSS <script> escapado.) Tj ET
+BT /F1 9 Tf 40 624 Td (## Día 11 - sesion.php HttpOnly/SameSite/regenerate, guardia.php, 403 consultor en usuarios.php, expiració) Tj ET
+BT /F1 9 Tf 40 611 Td (## Día 12 - Parciales cabecera/menu/pie, menú por rol, 4 indicadores reales, aria-current.) Tj ET
+BT /F1 9 Tf 40 598 Td (## Día 13 - CRUD productos/clientes con validación servidor \(JS desactivado OK\), PRG 303, borrado lógico,) Tj ET
+BT /F1 9 Tf 40 585 Td (## Día 14 - 4 vistas, api/graficos.php protegido, 3 gráficos Chart.js con filtro fechas, JSON sin SQL expu) Tj ET
+BT /F1 9 Tf 40 572 Td (## Día 15 - Reportes con logo, filtros, totales, @media print, CSV con BOM, PDF vía imprimir/Dompdf. Suste) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002485 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2555
+%%EOF
