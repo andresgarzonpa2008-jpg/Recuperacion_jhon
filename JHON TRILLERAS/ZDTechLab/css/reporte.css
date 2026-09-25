@@ -1,0 +1,21 @@
+@import url('tokens.css');
+/* Reportes JT.TechLab — pantalla + impresión */
+@page { size: A4 portrait; margin: 14mm 12mm 18mm; }
+.reporte{ background:#fff; border:1px solid var(--borde); border-radius:8px; padding:1.2rem; }
+.reporte__encabezado{ display:flex; gap:1rem; align-items:center; border-bottom:2.5px solid var(--color-accion); padding-bottom:.8rem; margin-bottom:.8rem; }
+.reporte__logo{ width:64px; height:auto; }
+.reporte__marca h1{ margin:0; font-size:1.3rem; color:var(--color-marca); }
+.reporte__meta{ margin-left:auto; font-size:.8rem; text-align:right; color:var(--texto-tenue); }
+.reporte__filtros{ background:var(--color-marca-suave); padding:.4rem .7rem; border-radius:6px; font-size:.85rem; margin:.6rem 0; }
+.reporte__pie{ margin-top:1rem; font-size:.75rem; color:var(--texto-tenue); display:flex; justify-content:space-between; }
+@media print{
+  .panel__menu, .panel__barra, .no-imprimir{ display:none !important; }
+  body{ background:#fff; font-size:10.5pt; }
+  .panel{ display:block; }
+  .panel__contenido{ padding:0; max-width:none; }
+  .reporte{ border:none; }
+  .reporte__encabezado{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  table{ width:100%; border-collapse:collapse; }
+  thead{ display:table-header-group; }
+  tr, img, .grafico{ break-inside:avoid; }
+}

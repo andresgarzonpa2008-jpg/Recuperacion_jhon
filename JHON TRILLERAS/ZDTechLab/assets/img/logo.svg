@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="72" viewBox="0 0 240 72" role="img" aria-label="Logo de JT.TechLab">
+  <rect x="0" y="0" width="72" height="72" rx="8" fill="#39A900"/>
+  <rect x="12" y="16" width="34" height="7" rx="2" fill="#fff"/>
+  <rect x="12" y="29" width="48" height="7" rx="2" fill="#fff"/>
+  <rect x="12" y="42" width="28" height="7" rx="2" fill="#fff"/>
+  <circle cx="55" cy="48" r="10" fill="none" stroke="#fff" stroke-width="4"/>
+  <text x="84" y="33" font-family="system-ui,Segoe UI,Roboto,sans-serif" font-size="22" font-weight="800" fill="#1F5E14">JT.TechLab</text>
+  <text x="84" y="52" font-family="system-ui,Segoe UI,Roboto,sans-serif" font-size="11" fill="#4A5A50">Tienda tecnológica · Jhon Trilleras</text>
+</svg>

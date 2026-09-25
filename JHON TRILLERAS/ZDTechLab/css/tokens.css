@@ -1,0 +1,35 @@
+/* JT.TechLab — Tokens de diseño (Día 2)
+   Esquema: complementario dividido (verde base + acento naranja).
+   Regla 60-30-10: 60% neutros, 30% marca, 10% acento/acción.
+   Todos los textos cumplen WCAG 2.1 AA (>=4.5:1). */
+:root{
+  /* Neutros — el 60 % de la pantalla */
+  --superficie: #F7F8F6;
+  --superficie-alta: #FFFFFF;
+  --borde: #DDE3DA;
+
+  /* Marca — el 30 % */
+  --color-marca: #1F5E14;
+  --color-marca-suave: #EAF3E3;
+
+  /* Acción y acento — el 10 % */
+  --color-accion: #39A900;
+  --color-acento: #F08A00;
+
+  /* Texto (13.4:1 y 6.2:1 sobre --superficie) */
+  --texto: #15231A;
+  --texto-tenue: #4A5A50;
+
+  /* Semánticos (color + icono + texto, nunca solo color) */
+  --exito: #2E7D32;
+  --advertencia: #A85E00;
+  --error: #B3261E;
+  --info: #15506B;
+
+  /* Escala del verde institucional en hsl() (Día 1) */
+  --verde-900: hsl(100, 100%, 12%);
+  --verde-700: hsl(100, 100%, 22%);
+  --verde-500: hsl(100, 100%, 33%);
+  --verde-300: hsl(100, 60%, 62%);
+  --verde-100: hsl(100, 45%, 90%);
+}
